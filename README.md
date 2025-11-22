@@ -10,3 +10,8 @@ Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
 Create a new database naming pms_db.
 Import the provided SQL file. The file is known as pms_db.sql located inside the database folder.
 Browse http://localhost/pms/. 
+
+Admin Default Access:
+
+Username: admin
+Password: admin123
